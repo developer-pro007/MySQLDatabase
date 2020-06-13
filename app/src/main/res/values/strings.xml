@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My SQL Database</string>
+    <string name="botton_add">Add Data</string>
+    <string name="botton_change">Change Data</string>
+    <string name="botton_delete">Delete Data</string>
+    <string name="botton_show">Show Data</string>
+</resources>
